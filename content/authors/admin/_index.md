@@ -79,6 +79,6 @@ social:
 highlight_name: true
 ---
 
-Welcome! I am a Ph.D. Student in Political Science at University of Illinois Urbana-Champaign. My research interests include international relations, armed conflicts, interdependence between political violence, and leader survival. My research has appeared in International Studies Quarterly, World Development, and International Review of Public Administration. My research has received supports from [Arms Control & Domestic and International Security](https://acdis.illinois.edu) and Center for East Asian & Pacific Studies](https://ceaps.illinois.edu).
+Welcome! I am a Ph.D. Student in Political Science at University of Illinois Urbana-Champaign. My research interests include international relations, armed conflicts, interdependence between political violence, and leader survival. My research has appeared in *International Studies Quarterly*, *World Development*, and *International Review of Public Administration*. My research has received supports from [Arms Control & Domestic and International Security](https://acdis.illinois.edu) and Center for East Asian & Pacific Studies](https://ceaps.illinois.edu).
 
 {style="text-align: justify;"}
