@@ -40,6 +40,9 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+---
+
+---
 title: "Money backfires: How Chinese investment fuels anti-China protests abroad"
 authors:
 - admin
@@ -83,9 +86,6 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-
-
----
 
 
 
