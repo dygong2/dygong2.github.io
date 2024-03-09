@@ -39,8 +39,9 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+---
 
-
+---
 title: "Killing Protests with Kindness: Anti-China Protests and China's Public Diplomacy"
 authors:
 - Yujeong Yang, Sanghoon Kim-Leffingwell, Shuyuan Shen
