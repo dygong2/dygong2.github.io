@@ -28,7 +28,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Working Papers
+      title: 
       filters:
         folders:
           - publication
