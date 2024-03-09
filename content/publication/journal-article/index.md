@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Studies Quarterly, 67*(4)"
+publication: "*International Studies Quarterly, 67* (4)"
 publication_short: ""
 
 abstract: Anti-China protests have posed challenges to China's ambition to further expand its political and economic influence globally. How does Beijing respond to anti-China protests? And how do anti-China protests affect Beijing's use of public diplomatic resources? We address these questions by examining the effect of anti-China protests on China's public diplomatic engagement across low- and middle-income countries in Asia. We argue that anti-China protests lead to an increased level of non-financial public diplomatic engagement (e.g., elite visits) as well as financial engagement through foreign aid. We further argue that the effect of anti-China protests on increasing public diplomatic engagement is contingent on regime type. This is because China takes the anti-China message from autocracies more seriously given the higher political costs of participating in public protests in autocracies. Compared to democracies, autocracies are also in a better position to use anti-China protests as a means to signal their political constraints, compelling China to invest more public diplomatic resources for the countries.
@@ -47,28 +47,14 @@ image:
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+
+
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+
+
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
 
