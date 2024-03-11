@@ -69,9 +69,7 @@ sections:
       content:
         title: Teaching
         items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Instructor
           location: California
           date_start: '2021-01-01'
           date_end: ''
@@ -81,7 +79,7 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
+        - title: Teaching Assistant
           company: University X
           company_url: ''
           location: California
