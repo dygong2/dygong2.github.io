@@ -5,7 +5,7 @@ authors:
 - admin
 
 date: "2023-01-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.worlddev.2024.106566"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-01-01T00:00:00Z"
@@ -14,10 +14,6 @@ publishDate: "2023-01-01T00:00:00Z"
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
-
-# Publication name and optional abbreviated publication name.
-publication: "*World Development, 178*"
-publication_short: ""
 
 # Publication name and optional abbreviated publication name.
 publication: "*GSIPE 2024*, *MPSA 2024*"
