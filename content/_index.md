@@ -52,10 +52,9 @@ sections:
     design:
       columns: '2'
       view: citation
-
   - block: collection
      content:
-       title: Working Papers
+       title: Working papers
        filters:
         folders:
           - workingpapers
@@ -63,7 +62,6 @@ sections:
     design:
       columns: '2'
       view: citation
-
   - block: collection
     content:
       title: Teaching
@@ -73,6 +71,7 @@ sections:
         featured_only: false
     design:
       columns: '2'
+      view: list
   - block: contact
     id: contact
     content:
