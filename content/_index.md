@@ -71,7 +71,7 @@ sections:
         featured_only: false
     design:
       columns: '2'
-      view: list
+      view: card
   - block: contact
     id: contact
     content:
