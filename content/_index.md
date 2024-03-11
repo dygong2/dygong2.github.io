@@ -69,23 +69,8 @@ sections:
       content:
         title: Teaching
         items:
-        - title: Instructor
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: 
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+        - title: Instructor  
         - title: Teaching Assistant
-          company: University X
-          company_url: ''
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: contact
