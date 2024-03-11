@@ -3,33 +3,33 @@ date = "2016-04-20T00:00:00"
 draft = false
 title = "Teaching"
 section_id = 10
-weight = 10
+weight = 20
 +++
 
 # University of Illinois Urbana-Champaign
 
-## Teaching Interests
+### Teaching Interests
 - International Relations, Conflicts, Political Violence, Methods
 
-## Instructor
+### Instructor
 
-### Intro to International Relations [ONL]
+## Intro to International Relations [ONL]
 - Summer 2024
 
-### Ordinary Least Squares Regression [Math Camp, Department of Political Science]
+## Ordinary Least Squares Regression [Math Camp, Department of Political Science]
 - Summer 2023
 
-## Teaching Assistant
+### Teaching Assistant
 ### The New Middle East
 - Spring 2022
 
-### Comparative Politics in Developing Nations
+## Comparative Politics in Developing Nations
 - Fall 2021
 
-## Grader
-### American Foreign Policy
+### Grader
+## American Foreign Policy
 - Fall 2022
 
-### Law and Representation
+## Law and Representation
 - Fall 2020
 
