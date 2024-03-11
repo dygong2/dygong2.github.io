@@ -71,8 +71,6 @@ sections:
         items:
         - title: Instructor  
         - title: Teaching Assistant
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
