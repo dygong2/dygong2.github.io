@@ -54,14 +54,13 @@ sections:
       view: citation
   - block: collection
     content:
-      title: Working Papers
+      title: Teaching
       filters:
         folders:
-          - workingpapers
-        featured_only: true
+          - teaching
+        featured_only: false
     design:
       columns: '2'
-      view: citation
   - block: contact
     id: contact
     content:
