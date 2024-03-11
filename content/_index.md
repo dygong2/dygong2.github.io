@@ -65,17 +65,18 @@ sections:
       columns: '2'
       view: citation
     - block: teaching
-    content:
-      title: Teaching
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
+      id: teaching
+      content:
+        title: Teaching
+        # Date format for experience
+        #   Refer to https://docs.hugoblox.com/customization/#date-format
+        date_format: Jan 2006
+        # Experiences.
+        #   Add/remove as many `experience` items below as you like.
+        #   Required fields are `title`, `company`, and `date_start`.
+        #   Leave `date_end` empty if it's your current employer.
+        #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+        items:
         - title: CEO
           company: GenCoin
           company_url: ''
