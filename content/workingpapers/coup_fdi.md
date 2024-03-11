@@ -5,7 +5,7 @@ authors:
 - admin
 
 date: "2023-01-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.worlddev.2024.106566"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-01-01T00:00:00Z"
@@ -29,7 +29,7 @@ abstract: How do failed coup attempts impact foreign direct investment (FDI) inf
 summary: Failed coup attempts reduce FDI inflows in extractive sector. The effect does not appear in other sectors.
 
 tags:
-- Source Themes
+- Papers
 featured: true
 
 # links:
