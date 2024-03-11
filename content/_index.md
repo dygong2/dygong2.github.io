@@ -64,9 +64,9 @@ sections:
     design:
       columns: '2'
       view: citation
-    - block: experience
+    - block: teaching
     content:
-      title: Experience
+      title: Teaching
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
