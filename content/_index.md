@@ -47,7 +47,7 @@ sections:
       title: Recent Publications
       filters:
         folders:
-          - publication
+          - publication/journal-article
         featured_only: false
     design:
       columns: '2'
