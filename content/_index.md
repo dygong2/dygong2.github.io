@@ -72,10 +72,10 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: dygong2@illinois.edu
       address:
-        street: 316, 505 E Armory Ave
-        city: Champaign
+        street: 1407 W Gregory Dr
+        city: Urbana
         region: IL
-        postcode: '61820'
+        postcode: '61801'
         country: United States
         country_code: US
       # Automatically link email and phone or display as text?
