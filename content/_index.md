@@ -66,13 +66,13 @@ sections:
       view: citation
   - block: teaching
     id: teaching
-        content:
-          title: Teaching
-          items:
-          - title: Instructor  
-          - title: Teaching Assistant
-      design:
-        columns: '2'
+    content:
+      title: Teaching
+      items:
+      - title: Instructor  
+      - title: Teaching Assistant
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
