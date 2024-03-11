@@ -65,7 +65,6 @@ sections:
       columns: '2'
       view: citation
 - block: experience
-      id: teaching
       content:
         title: Teaching
         items:
