@@ -52,6 +52,7 @@ sections:
     design:
       columns: '2'
       view: citation
+
   - block: collection
      content:
        title: Working Papers
@@ -62,6 +63,7 @@ sections:
     design:
       columns: '2'
       view: citation
+
   - block: collection
     content:
       title: Teaching
