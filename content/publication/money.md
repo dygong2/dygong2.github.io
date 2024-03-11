@@ -4,7 +4,8 @@ authors:
 - admin
 - Sanghoon Kim-Leffingwell, Shuyuan Shen, Yujeong Yang
 author_notes:
-- "All authors contributed equally to this article."
+- 'Equal contribution'
+- 'Equal contribution'
 date: "2024-06-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.worlddev.2024.106566"
 
