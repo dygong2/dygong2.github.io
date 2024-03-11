@@ -88,6 +88,8 @@ sections:
           organization_url: https://www.datacamp.com
           title: 'Object-Oriented Programming in R'
           url: ''
+     design:
+      columns: '2'
   - block: contact
     id: contact
     content:
