@@ -52,16 +52,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-     content:
-       title: Working papers
-       filters:
-        folders:
-          - workingpapers
-        featured_only: true
-    design:
-      columns: '2'
-      view: citation
+
   - block: collection
     content:
       title: Teaching
