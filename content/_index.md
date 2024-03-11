@@ -64,10 +64,10 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: experience
+  - block: teaching
     id: teaching
         content:
-          title: teaching
+          title: Teaching
           items:
           - title: Instructor  
           - title: Teaching Assistant
