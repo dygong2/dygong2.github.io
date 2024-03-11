@@ -4,6 +4,7 @@ draft = false
 title = "Teaching"
 section_id = 10
 weight = 10
+type = "widget_page"
 +++
 
 # University of Illinois Urbana-Champaign
