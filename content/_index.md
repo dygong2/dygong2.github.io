@@ -64,17 +64,30 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: teaching
-    content:
+  - block: accomplishments
+      content:
       title: Teaching
-      filters:
-        folders:
-          - teaching
-        featured_only: true
-    design:
-      columns: '2'
-      view: compact
+      subtitle:
+      date_format: Jan 2006
+      items:
+        - certificate_url: https://www.edx.org
+          date_end: ''
+          date_start: '2021-01-01'
+          description: Formulated informed blockchain models, hypotheses, and use cases.
+          icon: edx
+          organization: edX
+          organization_url: https://www.edx.org
+          title: Blockchain Fundamentals
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        - certificate_url: https://www.datacamp.com
+          date_end: '2020-12-21'
+          date_start: '2020-07-01'
+          description: ''
+          icon: datacamp
+          organization: DataCamp
+          organization_url: https://www.datacamp.com
+          title: 'Object-Oriented Programming in R'
+          url: ''
   - block: contact
     id: contact
     content:
