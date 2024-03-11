@@ -58,8 +58,8 @@ sections:
       title: Working Papers
       filters:
         folders:
-          - publication
-        exclude_featured: true
+          - workingpapers
+        featured_only: true
     design:
       columns: '2'
       view: card
