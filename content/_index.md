@@ -64,13 +64,15 @@ sections:
     design:
       columns: '2'
       view: citation
-- block: collection
+- block: experience
       id: teaching
       content:
         title: Teaching
         items:
         - title: Instructor  
         - title: Teaching Assistant
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
