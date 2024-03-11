@@ -2,8 +2,12 @@
 title: "Money backfires: How Chinese investment fuels anti-China protests abroad"
 authors:
 - admin
-- Sanghoon Kim-Leffingwell, Shuyuan Shen, Yujeong Yang
+- Sanghoon Kim-Leffingwell
+- Shuyuan Shen
+- Yujeong Yang
 author_notes:
+- 'Equal contribution'
+- 'Equal contribution'
 - 'Equal contribution'
 - 'Equal contribution'
 date: "2024-06-01T00:00:00Z"
