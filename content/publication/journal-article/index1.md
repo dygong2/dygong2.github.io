@@ -28,7 +28,7 @@ summary: Chinese FDI promotes anti-China protests, but the effects are contingen
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
