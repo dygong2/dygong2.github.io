@@ -53,7 +53,6 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: featured
     content:
       title: Working Papers
       filters:
