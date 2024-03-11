@@ -71,10 +71,10 @@ sections:
       filters:
         folders:
           - teaching
-        featured_only: false
+        featured_only: true
     design:
       columns: '2'
-      view: card
+      view: compact
   - block: contact
     id: contact
     content:
