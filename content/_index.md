@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
+    id: publication
     content:
       title: Recent Publications
       filters:
@@ -53,6 +54,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+    id: working
     content:
       title: Working papers
       filters:
@@ -63,6 +65,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+    id: teaching
     content:
       title: Teaching
       filters:
