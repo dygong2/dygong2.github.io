@@ -59,7 +59,7 @@ sections:
       filters:
         folders:
           - workingpapers
-        featured_only: false
+        featured_only: true
     design:
       columns: '2'
       view: card
