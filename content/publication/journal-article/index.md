@@ -26,7 +26,7 @@ summary: Anti-China protests lead to an increased level of non-financial public 
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
