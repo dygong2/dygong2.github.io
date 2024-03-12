@@ -64,30 +64,6 @@ sections:
     design:
       columns: '2'
       view: citation
- - block: experience
-   id: teaching
-   content:
-     title: Teaching
-     date_format: Jan 2006
-     items:
-      - title: CEO
-        company: GenCoin
-        company_url: ''
-        company_logo: ''
-        location: California
-        date_start: '2021-01-01'
-        date_end: ''
-        description: blur
-      - title: Professor of Semiconductor Physics
-        company: University X
-        company_url: ''
-        company_logo: ''
-        location: California
-        date_start: '2016-01-01'
-        date_end: '2020-12-31'
-        description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
