@@ -25,7 +25,7 @@ abstract: Anti-China protests have posed challenges to China's ambition to furth
 summary: Anti-China protests lead to an increased level of non-financial public diplomatic engagement (e.g., elite visits) as well as financial engagement through foreign aid. The effect of anti-China protests on increasing public diplomatic engagement is contingent on regime type.
 
 tags:
-- Source Themes
+- Publications
 featured: true
 
 # links:
