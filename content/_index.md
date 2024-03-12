@@ -74,36 +74,36 @@ sections:
       date_format: Jan 2006
       items:
         - certificate_url: ''
-          date_end: ''
-          date_start: '2020-07-01'
-          description: Instructor (Summer 2024)
+          date_end: '2024-08-01'
+          date_start: '2024-06-01'
+          description: Instructor
           icon: ''
           organization: ''
           organization_url: ''
           title: Introduction to International Relations [ONL]
           url: ''
         - certificate_url: ''
-          date_end: ''
-          date_start: '2020-07-01'
-          description: Instructor (Summer 2023) 
+          date_end: '2023-08-01'
+          date_start: '2023-06-01'
+          description: Instructor  
           icon: ''
-          organization: ''
+          organization: 'Instructor'
           organization_url: ''
           title: Ordinary Least Squares Regression [Math Camp]
           url: ''
         - certificate_url: ''
-          date_end: ''
-          date_start: '2020-07-01'
-          description: Teaching Assistant (Spring 2022)
+          date_end: '2022-05-01'
+          date_start: '2022-01-01'
+          description: Teaching Assistant 
           icon: ''
           organization: ''
           organization_url: ''
           title: The New Middle East
           url: '' 
         - certificate_url: ''
-          date_end: ''
-          date_start: '2020-07-01'
-          description: Teaching Assistant (Fall 2021)
+          date_end: '2021-12-01'
+          date_start: '2021-08-01'
+          description: Teaching Assistant 
           icon: ''
           organization: ''
           organization_url: ''
