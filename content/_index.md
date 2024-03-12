@@ -74,11 +74,11 @@ sections:
             Intro to International Relations [ONL] (Summer 2024)
             Ordinary Least Squares Regression [Math Camp, Department of Political Science] (Summer 2023)
       - title: Teaching Assistant
-          Courses: |2-
+        Courses: |2-
             The New Middle East (Spring 2022)
             Comparative Politics in Developing Nations (Fall 2021)
       - title: Grader
-           Courses: |2-
+        Courses: |2-
              American Foreign Policy (Fall 2022)
              Law and Representation (Fall 2020)
     design:
