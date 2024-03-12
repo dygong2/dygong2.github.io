@@ -26,7 +26,7 @@ abstract: China has been expanding its global economic presence through foreign 
 summary: Chinese FDI promotes anti-China protests, but the effects are contingent on the level of political competition. The effect of Chinese FDI on anti-China protests is particularly stronger in countries where citizens have limited institutional routes to express their grievances and pursue policy alternatives through political competition. The pattern of increasing anti-China protests does not appear in the context of Chinese foreign aid or trade with China.
 
 tags:
-- Source Themes
+- Publications
 featured: true
 
 # links:
