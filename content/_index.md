@@ -56,14 +56,14 @@ sections:
   - block: collection
     id: working
     content:
-      title: Working papers
+      title: Working Papers
       filters:
         folders:
           - workingpapers
         featured_only: true
     design:
       columns: '2'
-      view: compact
+      view: citation
   - block: accomplishments
     id: teaching
     content:
