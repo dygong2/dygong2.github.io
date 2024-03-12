@@ -76,16 +76,16 @@ sections:
         - certificate_url: ''
           date_end: '2024-08-01'
           date_start: '2024-06-01'
-          description: Instructor
+          description: ''
           icon: ''
-          organization: ''
+          organization: 'Instructor'
           organization_url: ''
           title: Introduction to International Relations [ONL]
           url: ''
         - certificate_url: ''
           date_end: '2023-08-01'
           date_start: '2023-06-01'
-          description: Instructor  
+          description: ''  
           icon: ''
           organization: 'Instructor'
           organization_url: ''
@@ -94,18 +94,18 @@ sections:
         - certificate_url: ''
           date_end: '2022-05-01'
           date_start: '2022-01-01'
-          description: Teaching Assistant 
+          description: '' 
           icon: ''
-          organization: ''
+          organization: 'Teaching Assistant'
           organization_url: ''
           title: The New Middle East
           url: '' 
         - certificate_url: ''
           date_end: '2021-12-01'
           date_start: '2021-08-01'
-          description: Teaching Assistant 
+          description: ''
           icon: ''
-          organization: ''
+          organization: 'Teaching Assistant'
           organization_url: ''
           title: Comparative Politics in Developing Nations
           url: ''
