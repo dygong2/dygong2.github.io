@@ -82,7 +82,7 @@ sections:
           organization_url: ''
           title: Introduction to International Relations [ONL]
           url: ''
-       - certificate_url: ''
+        - certificate_url: ''
           date_end: '2023-08-01'
           date_start: '2023-08-01'
           description: 'Instructor'
@@ -109,7 +109,7 @@ sections:
           organization_url: ''
           title: Comparative Politics in Developing Nations
           url: ''
-      - certificate_url: ''
+        - certificate_url: ''
           date_end: '2022-08-01'
           date_start: '2022-12-01'
           description: 'Grader'
@@ -118,7 +118,7 @@ sections:
           organization_url: ''
           title: American Foreign Policy
           url: ''
-     -   certificate_url: ''
+        - certificate_url: ''
           date_end: '2021-08-01'
           date_start: '2021-12-01'
           description: 'Grader'
