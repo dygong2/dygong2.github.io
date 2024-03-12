@@ -53,7 +53,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
+  - block: working
     id: working
     content:
       title: Working papers
@@ -66,6 +66,11 @@ sections:
       view: citation
   - block: experience
     id: teaching
+    content:
+      title: Teaching
+      subtitle:
+      items:
+        - title: Instructor
     design:
       columns: '2'
   - block: contact
