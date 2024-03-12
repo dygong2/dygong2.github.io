@@ -69,7 +69,8 @@ sections:
     content:
       title: Teaching
       subtitle:
-      items:
+      text: |-
+      Instructor: 
     design:
       columns: '2'
   - block: contact
