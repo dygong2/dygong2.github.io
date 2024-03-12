@@ -70,7 +70,6 @@ sections:
       title: Teaching
       subtitle:
       items:
-        - title: Instructor
     design:
       columns: '2'
   - block: contact
