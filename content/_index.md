@@ -63,7 +63,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: citation
+      view: card
   - block: accomplishments
     id: teaching
     content:
