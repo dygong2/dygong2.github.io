@@ -24,7 +24,7 @@ abstract: How do illicit drug economies impact the success of peace agreements? 
 summary: Peace agreements with rebels who use illicit drugs as their funding sources are more likely to experience rebel splintering and post-war violence. This effect is mitigated when the peace agreements include territorial provisions.
 
 tags:
-- Source Themes
+- Working papers
 featured: true
 
 # links:
