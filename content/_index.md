@@ -73,38 +73,17 @@ sections:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       items:
-        - certificate_url: ''
-          date_end: '2024-08-01'
-          date_start: '2024-06-01'
-          description: 'Instructor'
+        - description: 'Instructor (Summer 2024)'
           icon: ''
-          organization: ''
-          organization_url: ''
           title: Introduction to International Relations [ONL]
-          url: ''
-        - certificate_url: ''
-          date_end: '2023-08-01'
-          date_start: '2023-08-01'
-          description: 'Instructor'
+        - description: 'Instructor (Summer 2023)' 
           icon: ''
-          organization: ''
-          organization_url: ''
-          title: Ordinary Least Squares Regression [Math Camp, Department of Political Science]
-          url: ''
-        - certificate_url: ''
-          date_end: '2022-01-01'
-          date_start: '2022-05-01'
-          description: 'Teaching Assistant'
+          title: Ordinary Least Squares Regression [Math Camp]
+        - description: 'Teaching Assistant (Spring 2022)' 
           icon: ''
-          organization: ''
-          organization_url: ''
-          title: The New Middle East
-          url: ''
-        - date_end: '2021-08-01'
-          date_start: '2021-12-01'
-          description: 'Teaching Assistant'
+          title: The New Middle East 
+        - description: 'Teaching Assistant (Fall 2021)'
           icon: ''
-          organization: ''
           title: Comparative Politics in Developing Nations
     design:
       columns: '2'
