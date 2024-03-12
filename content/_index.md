@@ -53,7 +53,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: working
+  - block: portfolio
     id: working
     content:
       title: Working papers
