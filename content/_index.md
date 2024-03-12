@@ -53,38 +53,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: working
-    content:
-      title: Working papers
-      filters:
-        folders:
-          - workingpapers
-        featured_only: true
-    design:
-      columns: '2'
-      view: citation
-  - block: teaching
-    id: teaching
-    content:
-      title: Teaching
-      text: >-
-        Here you can find a list of courses I have taught, along with brief descriptions and any relevant course materials or resources.
-      items:
-        - title: Course Title 1
-          description: An overview of course 1, covering key topics, objectives, and outcomes.
-          year: 2022
-          semester: Fall
-          course_code: ABC123
-          course_url: https://example.com/course1
-        - title: Course Title 2
-          description: Detailed description of course 2, its importance in the curriculum, and what students can expect to learn.
-          year: 2023
-          semester: Spring
-          course_code: DEF456
-          course_url: https://example.com/course2
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
