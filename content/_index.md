@@ -59,8 +59,8 @@ sections:
       title: Working Papers
       filters:
         folders:
-          - workingpapers
-        featured_only: true
+          - publication
+        exclude_featured: true
     design:
       columns: '2'
       view: card
