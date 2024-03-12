@@ -64,6 +64,16 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: teaching
+    id: teaching
+    content:
+      title: Teaching
+      subtitle:
+      text: |-
+      # Contact (add or remove contact options as necessary)
+      email: dygong2@illinois.edu
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
