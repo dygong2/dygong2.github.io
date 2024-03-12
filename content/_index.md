@@ -75,8 +75,8 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: ''
-          description: 'Instructor (Summer 2024)'
+          date_start: '2020-07-01'
+          description: Instructor (Summer 2024)
           icon: ''
           organization: ''
           organization_url: ''
@@ -84,8 +84,8 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: ''
-          description: 'Instructor (Summer 2023)' 
+          date_start: '2020-07-01'
+          description: Instructor (Summer 2023) 
           icon: ''
           organization: ''
           organization_url: ''
@@ -93,8 +93,8 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: ''
-          description: 'Teaching Assistant (Spring 2022)' 
+          date_start: '2020-07-01'
+          description: Teaching Assistant (Spring 2022)
           icon: ''
           organization: ''
           organization_url: ''
@@ -102,8 +102,8 @@ sections:
           url: '' 
         - certificate_url: ''
           date_end: ''
-          date_start: ''
-          description: 'Teaching Assistant (Fall 2021)'
+          date_start: '2020-07-01'
+          description: Teaching Assistant (Fall 2021)
           icon: ''
           organization: ''
           organization_url: ''
