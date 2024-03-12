@@ -53,6 +53,17 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: working
+    id: working
+    content:
+      title: Working papers
+      filters:
+        folders:
+          - workingpapers
+        featured_only: true
+    design:
+      columns: '2'
+      view: citation
   - block: contact
     id: contact
     content:
