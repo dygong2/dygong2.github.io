@@ -26,7 +26,7 @@ summary: Failed coup attempts reduce FDI inflows in extractive sector. The effec
 
 tags:
 - Working papers
-featured: true
+featured: false
 
 # links:
 # - name: ""
