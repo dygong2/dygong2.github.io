@@ -65,10 +65,11 @@ sections:
       columns: '2'
       view: citation
   - block: accomplishments
+    id: teaching
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: Teaching
-      subtitle:
+      subtitle: University of Illinois Urbana-Champaign
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       items:
@@ -77,10 +78,55 @@ sections:
           date_start: '2024-06-01'
           description: 'Instructor'
           icon: ''
-          organization: Coursera
+          organization: ''
           organization_url: ''
           title: Introduction to International Relations [ONL]
           url: ''
+       - certificate_url: ''
+          date_end: '2023-08-01'
+          date_start: '2023-08-01'
+          description: 'Instructor'
+          icon: ''
+          organization: ''
+          organization_url: ''
+          title: Ordinary Least Squares Regression [Math Camp, Department of Political Science]
+          url: ''
+        - certificate_url: ''
+          date_end: '2022-01-01'
+          date_start: '2022-05-01'
+          description: 'Teaching Assistant'
+          icon: ''
+          organization: ''
+          organization_url: ''
+          title: The New Middle East
+          url: ''
+        - certificate_url: ''
+          date_end: '2021-08-01'
+          date_start: '2021-12-01'
+          description: 'Teaching Assistant'
+          icon: ''
+          organization: ''
+          organization_url: ''
+          title: Comparative Politics in Developing Nations
+          url: ''
+      - certificate_url: ''
+          date_end: '2022-08-01'
+          date_start: '2022-12-01'
+          description: 'Grader'
+          icon: ''
+          organization: ''
+          organization_url: ''
+          title: American Foreign Policy
+          url: ''
+     -   certificate_url: ''
+          date_end: '2021-08-01'
+          date_start: '2021-12-01'
+          description: 'Grader'
+          icon: ''
+          organization: ''
+          organization_url: ''
+          title: Law and Representation
+          url: '' 
     design:
       columns: '2'
   - block: contact
