@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: "https://drive.google.com/file/d/1sagtHb92DdD_l7NI8JESbEao4sEp0j1I/view?usp=share_link"
 url_code: 
 url_dataset: ''
 url_poster: ''
