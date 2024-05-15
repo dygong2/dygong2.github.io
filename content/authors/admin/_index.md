@@ -76,6 +76,6 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. Student in Political Science at the University of Illinois Urbana-Champaign. My research interests include international relations, armed conflicts, the interdependence between political violence, and leader survival. In my dissertation project, I examine how coup attempts, one of the most common forms of government instability, affect civil war peace processes and what factors condition these effects. My research has appeared in *International Studies Quarterly*, *World Development*, and *International Review of Public Administration*. My research has received supports from [Arms Control & Domestic and International Security](https://acdis.illinois.edu) and [Center for East Asian & Pacific Studies](https://ceaps.illinois.edu).
+I am a Ph.D. Candidate in Political Science at the University of Illinois Urbana-Champaign. My research interests include international relations, armed conflicts, the interdependence between political violence, and leader survival. In my dissertation project, I examine how coup attempts, one of the most common forms of government instability, affect civil war peace processes and what factors condition these effects. My research has appeared in *International Studies Quarterly*, *World Development*, and *International Review of Public Administration*. My research has received supports from [Arms Control & Domestic and International Security](https://acdis.illinois.edu) and [Center for East Asian & Pacific Studies](https://ceaps.illinois.edu).
 
 {style="text-align: justify;"}
