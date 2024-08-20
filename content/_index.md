@@ -83,13 +83,22 @@ sections:
           title: Ordinary Least Squares in R [Math Camp]
           url: ''
         - certificate_url: ''
-          date_end: '2023-08-01'
+          date_end: ''
           date_start: '2023-06-01'
           description: ''  
           icon: ''
           organization: 'Instructor'
           organization_url: ''
           title: Ordinary Least Squares Regression [Math Camp]
+          url: ''
+        - certificate_url: ''
+          date_end: '2022-12-01'
+          date_start: '2022-08-01'
+          description: ''  
+          icon: ''
+          organization: 'Grader'
+          organization_url: ''
+          title: American Foreign Policy
           url: ''
         - certificate_url: ''
           date_end: '2022-05-01'
@@ -108,6 +117,15 @@ sections:
           organization: 'Teaching Assistant'
           organization_url: ''
           title: Comparative Politics in Developing Nations
+          url: ''
+     - certificate_url: ''
+          date_end: '2020-12-01'
+          date_start: '2020-08-01'
+          description: ''  
+          icon: ''
+          organization: 'Grader'
+          organization_url: ''
+          title: Law and Representation
           url: ''
     design:
       columns: '2'
