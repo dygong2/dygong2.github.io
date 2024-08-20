@@ -74,7 +74,7 @@ sections:
       date_format: Jan 2006
       items:
         - certificate_url: ''
-          date_end: '2024-08-16'
+          date_end: ''
           date_start: '2024-08-01'
           description: ''  
           icon: ''
