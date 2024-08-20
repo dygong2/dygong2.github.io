@@ -9,15 +9,12 @@ weight = 20
 # University of Illinois Urbana-Champaign
 
 ### Teaching Interests
-- International Relations, Conflicts, Political Violence, Methods
+- International Relations, Conflicts, Political Violence, Research Methods
 
 ### Instructor
 
-## Intro to International Relations [ONL]
-- Summer 2024
-
 ## Ordinary Least Squares Regression [Math Camp, Department of Political Science]
-- Summer 2023
+- Summer 2023, 2024
 
 ### Teaching Assistant
 ### The New Middle East
