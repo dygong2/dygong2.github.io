@@ -73,7 +73,7 @@ sections:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       items:
-       - certificate_url: ''
+        - certificate_url: ''
           date_end: ''
           date_start: ''
           description: 'Summer 2024'  
