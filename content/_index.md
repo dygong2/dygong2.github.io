@@ -73,14 +73,14 @@ sections:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       items:
-        - certificate_url: ''
-          date_end: '2024-08-01'
-          date_start: '2024-06-01'
-          description: ''
+       - certificate_url: ''
+          date_end: ''
+          date_start: ''
+          description: 'Summer 2024'  
           icon: ''
           organization: 'Instructor'
           organization_url: ''
-          title: Introduction to International Relations [ONL]
+          title: Ordinary Least Squares in R [Math Camp]
           url: ''
         - certificate_url: ''
           date_end: '2023-08-01'
