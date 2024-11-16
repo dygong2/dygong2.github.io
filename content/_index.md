@@ -70,10 +70,41 @@ sections:
       title: Teaching
       filters:
         folders:
-          - content
-    design:
-      columns: '2'
-      view: compact
+         - content
+   design:
+     columns: '2'
+     view: compact
+
+   items:
+    - title: Teaching Interests
+      content: |
+        - International Relations, Conflicts, Political Violence, Research Methods
+    
+    - title: Central Michigan University
+      roles:
+        - position: Independent Instructor
+          course: East Asian Political System
+          semester: Spring 2025
+    
+    - title: University of Illinois Urbana-Champaign
+      roles:
+        - position: Independent Instructor
+          course: Ordinary Least Squares Regression [Math Camp, Department of Political Science]
+          semester: Summer 2023, 2024
+        - position: Teaching Assistant
+          courses:
+            - The New Middle East (Prof. Avital Livny)
+            - Comparative Politics in Developing Nations (Prof. Avital Livny)
+          semesters:
+            - Spring 2022
+            - Fall 2021
+        - position: Grader
+          courses:
+            - American Foreign Policy (Prof. Nicholas Grossman)
+            - Law and Representation (Prof. Wendy K. Tam)
+          semesters:
+            - Fall 2022
+            - Fall 2020
   - block: contact
     id: contact
     content:
