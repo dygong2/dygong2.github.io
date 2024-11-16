@@ -65,6 +65,7 @@ sections:
       columns: '2'
       view: compact
   - block: markdown
+    id: teaching
     content:
       title: 'Teaching'
       text: |-
