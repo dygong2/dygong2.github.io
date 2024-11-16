@@ -40,10 +40,10 @@ education:
   courses:
     - course: PhD in Political Science
       institution: University of Illinois Urbana-Champaign
-      year: 2020 - 2026 (_expected_)
+      year: 2020 - 2026 (expected)
     - course: M.S. in Applied Statistics
       institution: University of Illinois Urbana-Champaign
-      year: 2024 - 2025 (_expected_)
+      year: 2024 - 2025 (expected)
     - course: MA in Political Science
       institution: Ewha W. University 
       year: 2018
