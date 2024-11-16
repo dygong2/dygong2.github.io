@@ -83,7 +83,7 @@ sections:
             - **American Foreign Policy** (Prof. Nicholas Grossman) | University of Illinois Urbana-Champaign | Fall 2022
             - **Law and Representation** (Prof. Wendy K. Tam) | University of Illinois Urbana-Champaign | Fall 2020
     design:
-      columns: '1'
+      columns: '2'
   - block: contact
     id: contact
     content:
