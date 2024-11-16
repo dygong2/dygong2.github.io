@@ -14,6 +14,11 @@ sections:
     content:
       title: East Asian Political System (Spring 2025, Central Michigan University)
       username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
   - block: Independent Instructor
     content:
       title: Ordinary Least Squares in R [Math Camp] (Summer 2023, 2024, University of Illinois Urbana-Champaign)
