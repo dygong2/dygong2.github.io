@@ -69,12 +69,19 @@ sections:
     content:
       title: Teaching
       subtitle: Teaching Interests
-      text: International Relations, Conflicts, Political Violence, Research Methods
-    filters:
-        exclude_featured: true
+      text: |
+        **Teaching Interests**: International Relations, Conflicts, Political Violence, Research Methods
+
+        **Courses Taught**:
+        - Independent Instructor: East Asian Political System | Central Michigan University (Spring 2025)
+        - Ordinary Least Squares in R | UIUC Math Camp (2023, 2024)
+        - Teaching Assistant: The New Middle East (Spring 2022), Comparative Politics in Developing Nations (Fall 2021)
+
+        **Mentoring**:
+        - Undergraduate Research Apprenticeship Program (2023–Present)
+        - Departmental Program for First-Year Ph.D. Students (2023–Present)
     design:
-      columns: '2'
-      view: compact
+      columns: '1'
   - block: contact
     id: contact
     content:
