@@ -13,7 +13,7 @@ main:
   - name: Working Papers
     url: '#working'
     weight: 50
-  - name: Experience
+  - name: Teaching
     url: experience/
     weight: 50
   - name: Contact
