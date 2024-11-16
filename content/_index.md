@@ -81,8 +81,9 @@ sections:
         - Undergraduate Research Apprenticeship Program (2023–Present)
         - Departmental Program for First-Year Ph.D. Students (2023–Present)
     design:
-      columns: '2'
-      view: compact
+      card:
+        css_class: "bg-primary-700"
+        css_style: ""
   - block: contact
     id: contact
     content:
