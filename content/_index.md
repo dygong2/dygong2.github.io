@@ -66,18 +66,22 @@ sections:
       view: compact
   - block: markdown
     content:
-      title: '🎓 Teaching'
-      subtitle: 'Teaching Interests and Experience'
+      title: 'Teaching'
       text: |-
         **Teaching Interests**: International Relations, Conflicts, Political Violence, Research Methods
 
         ### Courses Taught
         - **Independent Instructor**:
-          - *East Asian Political System* | Central Michigan University | Spring 2025
-          - *Ordinary Least Squares in R* | University of Illinois Urbana-Champaign | Summer 2023, 2024
+          - **East Asian Political System** | Central Michigan University | Spring 2025
+          - **Ordinary Least Squares in R** | University of Illinois Urbana-Champaign | Summer 2023, 2024
+    
         - **Teaching Assistant**
-            - *The New Middle East* | University of Illinois Urbana-Champaign | Spring 2022
-            - *Comparative Politics in Developing Nations* | University of Illinois Urbana-Champaign | Fall 2021
+            - **The New Middle East** (Prof. Avital Livny) | University of Illinois Urbana-Champaign | Spring 2022
+            - **Comparative Politics in Developing Nations** (Prof. Avital Livny) | University of Illinois Urbana-Champaign | Fall 2021
+
+        - **Grader**
+            - **American Foreign Policy** (Prof. Nicholas Grossman) | University of Illinois Urbana-Champaign | Fall 2022
+            - **Law and Representation** (Prof. Wendy K. Tam) | University of Illinois Urbana-Champaign | Fall 2020
     design:
       columns: '1'
   - block: contact
