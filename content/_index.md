@@ -64,7 +64,7 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: collection
+  - block: teaching
     id: teaching
     content:
       title: Teaching
