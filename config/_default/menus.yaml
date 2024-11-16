@@ -14,7 +14,7 @@ main:
     url: '#working'
     weight: 50
   - name: Teaching
-    url: experience/
+    url: '#teaching'
     weight: 50
   - name: Contact
     url: '#contact'
