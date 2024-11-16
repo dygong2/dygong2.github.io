@@ -29,10 +29,11 @@ bio: My research interests include international relations, armed conflicts, the
 
 # Interests to show in About widget
 interests:
-  - International relations
-  - Armed conflicts
-  - Political violence
-  - Leader survival
+  - Political Violence (Civil Wars, Coups, Protests)
+  - Conflict Management & Resolution
+  - Political Economy of Violence
+  - Leader Survival
+  - Political Methodology (Machine Learning, Text Analysis)
 
 # Education to show in About widget
 education:
@@ -79,6 +80,10 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. Candidate in Political Science and a Master's student in Applied Statistics at the University of Illinois Urbana-Champaign. My research interests include international relations, armed conflicts, the interdependence between political violence, and leader survival.In my dissertation, I examine: 1) how wartime coup attempts—one of the most destabilizing forms of government instability—affect the management and resolution of civil wars, 2) how states effectively restore stability following coup attempts, and 3) how the restoration of post-coup stability influences conflict resolution efforts. My research has appeared in *International Studies Quarterly*, *World Development*, and *International Review of Public Administration*. My research has received supports from [Arms Control & Domestic and International Security](https://acdis.illinois.edu) and [Center for East Asian & Pacific Studies](https://ceaps.illinois.edu).
+I am a Ph.D. Candidate in Political Science and a Master's student in Applied Statistics at the University of Illinois Urbana-Champaign. My research interests include political violence, conflict management and resolution, political economy of conflict, and leader survival. 
+
+In my dissertation, I examine: 1) how wartime coup attempts—one of the most destabilizing forms of government instability—affect the management and resolution of civil wars, 2) how states effectively restore stability following coup attempts, and 3) how the restoration of post-coup stability influences conflict resolution efforts. 
+
+My research has appeared in *International Studies Quarterly*, *World Development*, and *International Review of Public Administration*. My research has received supports from [Arms Control & Domestic and International Security](https://acdis.illinois.edu) and [Center for East Asian & Pacific Studies](https://ceaps.illinois.edu).
 
 {style="text-align: justify;"}
