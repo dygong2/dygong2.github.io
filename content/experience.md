@@ -11,14 +11,15 @@ design:
 # Page sections
 sections:
   - block: Independent Instructor
-    content: East Asian Political System (Spring 2025, Central Michigan University)
+    content:
+      title: East Asian Political System (Spring 2025, Central Michigan University)
       username: admin
     design:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-skills
+ - block: resume-skills
     content:
       title: Skills & Hobbies
       username: admin
