@@ -17,7 +17,9 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Political Science and M.S. Student in Applied Statistics
+role: |
+  Ph.D. Candidate in Political Science
+  M.S. Student in Applied Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -59,7 +61,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: dygong2@illinois.edu
+    link: "mailto:dygong2@illinois.edu"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/doyoung_gong
@@ -71,7 +73,7 @@ social:
     link: https://scholar.google.co.kr/citations?user=VElnScEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://dygong2.github.io/doyounggong/
+    link: https://github.com/dygong2
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
