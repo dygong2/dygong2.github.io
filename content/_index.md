@@ -72,13 +72,12 @@ sections:
         **Teaching Interests**: International Relations, Conflicts, Political Violence, Research Methods
 
         ### Courses Taught
-        - **Independent Instructor**: *East Asian Political System* | Central Michigan University (Spring 2025)
-        - **Workshop Leader**: *Ordinary Least Squares in R* | UIUC Math Camp (2023, 2024)
-        - **Teaching Assistant**: *The New Middle East* (Spring 2022), *Comparative Politics in Developing Nations* (Fall 2021)
-
-        ### Mentoring
-        - Undergraduate Research Apprenticeship Program (2023–Present)
-        - Departmental Program for First-Year Ph.D. Students (2023–Present)
+        - **Independent Instructor**:
+          - *East Asian Political System* | Central Michigan University | Spring 2025
+          - *Ordinary Least Squares in R* | University of Illinois Urbana-Champaign | Summer 2023, 2024
+        - **Teaching Assistant**
+            - *The New Middle East* | University of Illinois Urbana-Champaign | Spring 2022
+            - *Comparative Politics in Developing Nations* | University of Illinois Urbana-Champaign | Fall 2021
     design:
       columns: '1'
   - block: contact
