@@ -39,7 +39,10 @@ education:
   courses:
     - course: PhD in Political Science
       institution: University of Illinois Urbana-Champaign
-      year: 2020 - Present
+      year: 2020 - 2026 (_expected_)
+    - course: M.S. in Applied Statistics
+      institution: University of Illinois Urbana-Champaign
+      year: 2024 - 2025 (_expected_)
     - course: MA in Political Science
       institution: Ewha W. University 
       year: 2018
@@ -76,6 +79,6 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. Candidate in Political Science and a Master's student in Statistics at the University of Illinois Urbana-Champaign. My research interests include international relations, armed conflicts, the interdependence between political violence, and leader survival.In my dissertation, I examine: 1) how wartime coup attempts—one of the most destabilizing forms of government instability—affect the management and resolution of civil wars, 2) how states effectively restore stability following coup attempts, and 3) how the restoration of post-coup stability influences conflict resolution efforts. My research has appeared in *International Studies Quarterly*, *World Development*, and *International Review of Public Administration*. My research has received supports from [Arms Control & Domestic and International Security](https://acdis.illinois.edu) and [Center for East Asian & Pacific Studies](https://ceaps.illinois.edu).
+I am a Ph.D. Candidate in Political Science and a Master's student in Applied Statistics at the University of Illinois Urbana-Champaign. My research interests include international relations, armed conflicts, the interdependence between political violence, and leader survival.In my dissertation, I examine: 1) how wartime coup attempts—one of the most destabilizing forms of government instability—affect the management and resolution of civil wars, 2) how states effectively restore stability following coup attempts, and 3) how the restoration of post-coup stability influences conflict resolution efforts. My research has appeared in *International Studies Quarterly*, *World Development*, and *International Review of Public Administration*. My research has received supports from [Arms Control & Domestic and International Security](https://acdis.illinois.edu) and [Center for East Asian & Pacific Studies](https://ceaps.illinois.edu).
 
 {style="text-align: justify;"}
