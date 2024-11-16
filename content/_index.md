@@ -64,7 +64,7 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: collection
+  - block: cta-card
     id: teaching
     content:
       title: Teaching
