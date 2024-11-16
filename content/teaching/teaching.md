@@ -24,7 +24,7 @@ weight = 20
 - Summer 2023, 2024
 
 ### Teaching Assistant
-### The New Middle East (Prof. Avital Livny)
+## The New Middle East (Prof. Avital Livny)
 - Spring 2022
 
 ## Comparative Politics in Developing Nations (Prof. Avital Livny)
