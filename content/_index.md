@@ -80,6 +80,10 @@ sections:
         **Mentoring**:
         - Undergraduate Research Apprenticeship Program (2023–Present)
         - Departmental Program for First-Year Ph.D. Students (2023–Present)
+    filters:
+        folders:
+          - publication
+        exclude_featured: true
     design:
       columns: '2'
       view: compact
