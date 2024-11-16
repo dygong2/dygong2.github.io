@@ -31,11 +31,11 @@ bio: My research interests include international relations, armed conflicts, the
 
 # Interests to show in About widget
 interests: >
-  - Political Violence\n  (Civil Wars, Coups, Protests)
-  - Conflict Management &\n  Resolution
-  - Political Economy of Violence
-  - Leader Survival
-  - Political Methodology\n  (Machine Learning, Text Analysis)
+    - Political Violence\n  (Civil Wars, Coups, Protests)
+    - Conflict Management &\n  Resolution
+    - Political Economy of Violence
+    - Leader Survival
+    - Political Methodology\n  (Machine Learning, Text Analysis)
 
 # Education to show in About widget
 education:
