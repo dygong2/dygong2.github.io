@@ -64,12 +64,14 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: teaching
+  - block: collection
     id: teaching
     content:
       title: Teaching
       subtitle: Teaching Interests
       text: International Relations, Conflicts, Political Violence, Research Methods
+    filters:
+        exclude_featured: true
     design:
       columns: '2'
       view: compact
