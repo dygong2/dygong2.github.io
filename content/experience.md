@@ -1,5 +1,5 @@
 ---
-title: 'Teaching'
+title: 'Experience'
 date: 2023-10-24
 type: landing
 
@@ -10,17 +10,26 @@ design:
 
 # Page sections
 sections:
-  - block: Independent Instructor
+  - block: resume-experience
     content:
-      title: East Asian Political System (Spring 2025, Central Michigan University)
       username: admin
     design:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: Independent Instructor
+  - block: resume-skills
     content:
-      title: Ordinary Least Squares in R [Math Camp] (Summer 2023, 2024, University of Illinois Urbana-Champaign)
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
+  - block: resume-languages
+    content:
+      title: Languages
       username: admin
 ---
