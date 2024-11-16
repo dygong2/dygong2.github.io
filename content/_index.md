@@ -70,7 +70,7 @@ sections:
       title: Teaching
       filters:
         folders:
-          - content
+          - experience
     design:
       columns: '2'
       view: compact
