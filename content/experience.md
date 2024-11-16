@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Teaching'
 date: 2023-10-24
 type: landing
 
@@ -10,8 +10,8 @@ design:
 
 # Page sections
 sections:
-  - block: resume-experience
-    content:
+  - block: Independent Instructor
+    content: East Asian Political System (Spring 2025, Central Michigan University)
       username: admin
     design:
       # Hugo date format
