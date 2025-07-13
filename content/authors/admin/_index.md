@@ -19,7 +19,7 @@ superuser: true
 # Role/position/tagline
 role: |
   Ph.D. Candidate in Political Science
-  M.S. Student in Applied Statistics
+  M.S. in Applied Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -43,10 +43,10 @@ education:
   courses:
     - course: PhD in Political Science
       institution: University of Illinois Urbana-Champaign
-      year: 2020 - 2026 (expected)
+      year: 2026 (expected)
     - course: MS in Applied Statistics
       institution: University of Illinois Urbana-Champaign
-      year: 2024 - 2025 (expected)
+      year: 2025
     - course: MA in Political Science
       institution: Ewha W. University 
       year: 2018
@@ -83,10 +83,9 @@ social:
 highlight_name: true
 ---
 
-I am a Ph.D. Candidate in Political Science and a Master's student in Applied Statistics at the University of Illinois Urbana-Champaign. My research interests include political violence, conflict management and resolution, political economy of conflict, and leader survival. 
+I am a Ph.D. Candidate in Political Science at the University of Illinois Urbana-Champaign, where I received a Master's in Applied Statistics in 2025. I am currently a Schroeder Fellow at the [Cline Center at the University of Illinois](https://blogs.illinois.edu/view/8353/1521624143) and a graduate student affiliate at the [Arms Control & Domestic and International Security](https://acdis.illinois.edu/currently-offered-courses/graduate-student-affiliates). My research interests include political violence, conflict management and resolution, political economy of conflict, and leader survival. In my dissertation, I examine: 1) how wartime coup attempts—the most destabilizing form of government fragmentation—affect the management and resolution of civil wars, 2) how states effectively restore stability following coup attempts, and 3) how the restoration of post-coup stability influences conflict management and resolution efforts. 
 
-In my dissertation, I examine: 1) how wartime coup attempts—the most destabilizing form of government fragmentation—affect the management and resolution of civil wars, 2) how states effectively restore stability following coup attempts, and 3) how the restoration of post-coup stability influences conflict resolution efforts. 
+My research has appeared in *International Studies Quarterly*, *World Development*, and *International Review of Public Administration*. My research has received supports from [Arms Control & Domestic and International Security](https://acdis.illinois.edu), [Center for East Asian & Pacific Studies](https://ceaps.illinois.edu), and APSA Conflict Processes Section.
 
-My research has appeared in *International Studies Quarterly*, *World Development*, and *International Review of Public Administration*. My research has received supports from [Arms Control & Domestic and International Security](https://acdis.illinois.edu) and [Center for East Asian & Pacific Studies](https://ceaps.illinois.edu).
 
 {style="text-align: justify;"}
