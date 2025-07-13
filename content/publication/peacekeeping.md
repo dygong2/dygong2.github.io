@@ -16,7 +16,7 @@ publishDate: "2024-03-01T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "*GSIPE 2024, MPSA 2024, ISA 2025*"
+publication: "*ISA-Midwest 2025 (Scheduled)*"
 publication_short: ""
 
 abstract: UN peacekeeping operations are conventionally treated as independent of one another for the purposes of analyses. In fact, many of them directly follow predecessors in the same conflict and in the same host countries. This paper is designed to accomplish three things. (1) identify which UN peacekeeping operations are succeeded directly by other operations, (2) document how the original and successor operations differ, if at all, using 6 differrent data sets on missons/mandates/tasks, and (3) provide a theoretical model to account for mission similarity and differences between original and successor operations. The scope of the study is all UN peace operations from 1948-present.
