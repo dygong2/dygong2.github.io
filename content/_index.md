@@ -103,7 +103,7 @@ sections:
 
         - **Selected Student Comments**
           <small>
-          - "Do Young is great at facilitating discussions and asking follow-up questions to provoke more thought in students."
+          - "Do Young is <span style='color:blue'>great at facilitating discussions<\span> and asking follow-up questions to provoke more thought in students."
           - "Do Young creates an open environment for respectful discussion - I have always felt that I am heard, and whenever I have fumbled or got confused while speaking about my opinion, Do Young helps in clarifying and making the opinion a sort of more linear argument."
           - "For Do Young, she did a great job of making the students more engaged in discussion than what was feasible in lecture. Likewise, she also enabled certain interactive games, like the usage of the non-anonymous dictator game to help us better understand the material."
           - "I was the only one in the discussion to answer "no" to a question and explained my reasoning, and Do Young asked me extensive questions that were very specific to the reasoning I gave, and really pushed my intellectual boundaries."
