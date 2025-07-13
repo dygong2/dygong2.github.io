@@ -69,19 +69,27 @@ sections:
     content:
       title: 'Teaching'
       text: |-
-        **Teaching Interests**: International Relations, Conflicts, Political Violence, Research Methods
+        **Teaching Interests**:
+        <small>
+        - Introduction to International Relations, Political Violence, Civil War, Conflict Management and Resolution, Peace Studies, East Asian Politics, Middle East Politics, Quantitative Research in the Social Sciences, R programming for Social Science Research, Causal Inference, Mixed Methods Research, Survival Analysis
+        </small>
+
+        
         ### Courses Taught
     
         - **Independent Instructor**:
+          <small>
           - **East Asian Political System**
             - Central Michigan University | Spring 2025, Spring 2026 (Scheduled)
           - **Quantitative Research Design in Political Science**
             - University of Illinois Urbana-Champaign | Summer 2025
           - **Ordinary Least Squares in R**
             - University of Illinois Urbana-Champaign | Summer 2023, 2024
+          </small>
 
     
         - **Teaching Assistant**
+            <small>
             - **The New Middle East** (Prof. Avital Livny)
               - University of Illinois Urbana-Champaign | Spring 2022
             - **Comparative Politics in Developing Nations** (Prof. Avital Livny)
@@ -90,12 +98,13 @@ sections:
               - University of Illinois Urbana-Champaign | Fall 2022
             - **Law and Representation** (Prof. Wendy K. Tam)
               - University of Illinois Urbana-Champaign | Fall 2020
+            </small>
 
 
         - **Selected Student Comments**
           <small>
           - "Do Young is great at facilitating discussions and asking follow-up questions to provoke more thought in students."
-          - "Do Young creates an open environment for respectful discussion- I have always felt that I am heard, and whenever I have fumbled or got confused while speaking about my opinion, Do Young helps in clarifying and making the opinion a sort of more linear argument."
+          - "Do Young creates an open environment for respectful discussion - I have always felt that I am heard, and whenever I have fumbled or got confused while speaking about my opinion, Do Young helps in clarifying and making the opinion a sort of more linear argument."
           - "For Do Young, she did a great job of making the students more engaged in discussion than what was feasible in lecture. Likewise, she also enabled certain interactive games, like the usage of the non-anonymous dictator game to help us better understand the material."
           - "I was the only one in the discussion to answer "no" to a question and explained my reasoning, and Do Young asked me extensive questions that were very specific to the reasoning I gave, and really pushed my intellectual boundaries."
           </small>
