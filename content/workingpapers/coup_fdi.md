@@ -31,6 +31,8 @@ featured: true
 links:
   - name: PDF
     url: "https://github.com/user-attachments/files/21206002/coup_fdi.pdf"
+  - name: Custom Link
+    url: "http://example.org"
 
 url_pdf: "https://github.com/user-attachments/files/21206002/coup_fdi.pdf"
 url_code: ""
