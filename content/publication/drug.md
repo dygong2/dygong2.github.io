@@ -1,5 +1,5 @@
 ---
-title: "A Durable Peace? Peace Agreement with Drug-funded Rebels"
+title: "Peace Under the Influence? The Role of Illicit Drug Economies in Peace Processes and Rebel Splintering"
 authors:
 - Myung Jung Kim
 - admin
@@ -19,9 +19,9 @@ publication_types: ["paper-conference"]
 publication: "*MPSA 2023, MPSA 2024*"
 publication_short: ""
 
-abstract: How do illicit drug economies impact the success of peace agreements? This question has been largely overlooked in the literature. In this paper, we address this oversight by examining how a rebel group's involvement in the illicit economy influences the durability of peace following a peaceful settlement. Specifically, we assess the likelihood of group fragmentation and the subsequent levels of violence. We contend that peace agreements signed by rebels reliant on illicit drug economies are more susceptible to fragmentation and recurrent violence. Due to the lucrative nature of the illicit drug trade, the benefits of peace agreements often favor rebel leaders, leaving the rank-and-file members discontented. These lower-ranking rebels, given the motives and opportunities stemming from the illicit drug economies, may revert to illegal activities. Consequently, they are more likely to rearm in order to expand their dominion over drug operations, countering government anti-drug initiatives. This can lead to group fragmentation and sustained violence post-peace agreement. Incorporating territorial provisions in peace agreements, however, could potentially mitigate this outcome by offering collective benefits to the entire rebel faction. We test this hypothesis by examining rebel fragmentation and patterns of violence from 1990 to 2015.
+abstract: How do the economic foundations of rebel groups shape civil war dynamics? While prior research has explored how different resource types affect conflict, less is known about how the illicit nature of certain resources—particularly drug economies—affects peace processes. We argue that the inherent illegality of drug-based financing imposes structural barriers to peace, distinguishing it from other forms of rebel revenue. Using cross-national dyadic data from 1990 to 2011, we find that drug-reliant rebel groups are 33\% less likely to initiate peace talks and over six times more likely to fragment once negotiations begin. These findings suggest that drug-based financing generates a self-reinforcing cycle that sustains violence. In contrast to accounts emphasizing grievances produced by peace processes, we show that some groups may be structurally predisposed to reject peace altogether. Our findings call for theoretical and policy approaches tailored to the distinct challenges posed by illicit rebel drug economies.
 # Summary. An optional shortened abstract.
-summary: Peace agreements with rebels who use illicit drugs as their funding sources are more likely to experience rebel splintering and post-war violence. This effect is mitigated when the peace agreements include territorial provisions.
+summary: Rebel groups that rely on drug-based financing are structurally less likely to pursue peace and more prone to fragmentation during negotiations, underscoring the unique challenges illicit economies pose to conflict resolution.
 
 tags:
 - Working papers
@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: "https://drive.google.com/file/d/10wnEo2TIHBoDSFkzdP4UdoI6b55TATtj/view?usp=share_link"
 url_code: 
 url_dataset: ''
 url_poster: ''
