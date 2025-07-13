@@ -74,7 +74,7 @@ sections:
         ### Courses Taught
         - **Independent Instructor**:
           - **East Asian Political System**
-            - Central Michigan University | Spring 2026 (Expected), Spring 2025
+            - Central Michigan University | Spring 2026, Spring 2025
           - **Ordinary Least Squares in R**
             - University of Illinois Urbana-Champaign | Summer 2023, 2024
     
