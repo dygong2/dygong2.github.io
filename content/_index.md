@@ -89,7 +89,7 @@ sections:
               - University of Illinois Urbana-Champaign | Fall 2022
             - **Law and Representation** (Prof. Wendy K. Tam)
               - University of Illinois Urbana-Champaign | Fall 2020
-
+        <br>
         - **Selected Student Comments**
           - "Do Young is great at facilitating discussions and asking follow-up questions to provoke more thought in students."
           - "Do Young creates an open environment for respectful discussion- I have always felt that I am heard, and whenever I have fumbled or got confused while speaking about my opinion, Do Young helps in clarifying and making the opinion a sort of more linear argument."
