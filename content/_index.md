@@ -74,7 +74,7 @@ sections:
         ### Courses Taught
         - **Independent Instructor**:
           - **East Asian Political System**
-            - Central Michigan University | Spring 2026, Spring 2025
+            - Central Michigan University | Spring 2025
           - **Ordinary Least Squares in R**
             - University of Illinois Urbana-Champaign | Summer 2023, 2024
     
@@ -83,7 +83,7 @@ sections:
               - University of Illinois Urbana-Champaign | Spring 2022
             - **Comparative Politics in Developing Nations** (Prof. Avital Livny)
               - University of Illinois Urbana-Champaign | Fall 2021
-        
+
         - **Grader**
             - **American Foreign Policy** (Prof. Nicholas Grossman)
               - University of Illinois Urbana-Champaign | Fall 2022
