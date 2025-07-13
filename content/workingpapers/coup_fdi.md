@@ -28,16 +28,17 @@ tags:
 - Working papers
 featured: true
 
-# links:
-# - name: ""
-#   url: "https://github.com/user-attachments/files/21206002/coup_fdi.pdf"
-url_pdf: [coup_fdi.pdf](https://github.com/user-attachments/files/21206002/coup_fdi.pdf)
-url_code:
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+links:
+  - name: PDF
+    url: "https://github.com/user-attachments/files/21206002/coup_fdi.pdf"
+
+url_pdf: "https://github.com/user-attachments/files/21206002/coup_fdi.pdf"
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 
 ---
