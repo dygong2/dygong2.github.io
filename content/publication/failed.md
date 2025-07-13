@@ -1,5 +1,5 @@
 ---
-title: "Violence begets peace? Failed coup attempts and civil war peace processes"
+title: "Bullets to Bargains: Wartime Coup Attempts in Civil War Management and Resolution"
 authors:
 - admin
 
@@ -15,13 +15,13 @@ publishDate: "2024-03-01T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "*ISA-Midwest 2023, ISA 2024*"
+publication: "*ISA-Midwest 2024, MPSA 2025*"
 publication_short: ""
 
-abstract: How do failed coup attempts during civil wars impact conflict management? Many studies have explored the factors influencing conflict management and peace processes. However, our understanding of the evolving dynamics of the bargaining environment during a war is still limited. By focusing on failed coup attempts in civil wars, I argue that these events alter the bargaining environment, increasing the likelihood of negotiations but decreasing the probability of negotiated settlements. Failed coup attempts reveal the information about the presence of internal challengers within the government. This motivates government leaders to seek a temporary cessation of hostilities with rebels, compelling them to focus on defense against internal threats. Meanwhile, rebels, recognizing their enhanced bargaining position, are also incentivized to negotiate, thereby increasing the likelihood of negotiations. However, the incomplete nature of the information from these failed coups can hinder rebels and the government from finding mutually acceptable terms, exacerbating commitment problems between them. Consequently, the likelihood of negotiated settlements decreases. The hypotheses are supported by a series of tests using data on civil war termination and coup attempts between 1975 and 2013. 
+abstract: How do wartime coup attempts affect the conflict management and resolution of civil wars? Despite extensive research on rebel group instability, the impact of government instability remains underexplored. I argue that coup attempts—whether successful or failed—increase the chances of ceasefires but decrease those of peace agreements. Following coup attempts, both coup-installed leaders and surviving incumbents become preoccupied with preventing subsequent coups, as they increase the risk of future challenges. This shift leads them to divert resources from fighting rebels toward coup-proofing, which in turn increases the chances of ceasefires. Ceasefires are particularly likely with rebel groups who rely heavily on civilian support, as they seek to bolster their legitimacy. Nevertheless, coup attempts heighten uncertainty about the government’s ability to retain power and uphold commitments, reducing the chances of peace agreements. The hypotheses are supported by tests using datasets on ceasefires and peace agreements from 1989 to 2012. 
 
 # Summary. An optional shortened abstract.
-summary: Failed coup attempts increase the likelihood of negotiation onsets in civil wars but decrease the chances of reaching negotiated settlements.
+summary: Wartime coup attempts have two contrasting impacts: they increase the chances of short-term conflict management but reduce the chances of long-term conflict resolution.
 
 tags:
 - Working papers
@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://drive.google.com/file/d/1sagtHb92DdD_l7NI8JESbEao4sEp0j1I/view?usp=share_link"
+url_pdf: "https://drive.google.com/file/d/1KMVMxFs-smJZ8buhHawl9ybfYP1ArCyf/view?usp=share_link"
 url_code: 
 url_dataset: ''
 url_poster: ''
