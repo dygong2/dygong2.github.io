@@ -30,8 +30,8 @@ featured: true
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: 
+#   url: "coup_fdi.pdf"
+url_pdf: [coup_fdi.pdf](https://github.com/user-attachments/files/21206002/coup_fdi.pdf)
 url_code:
 url_dataset: ''
 url_poster: ''
