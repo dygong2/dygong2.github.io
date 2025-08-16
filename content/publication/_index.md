@@ -1,6 +1,8 @@
 ---
 title: Publications
 cms_exclude: true
+sort_by: "weight"  
+sort_ascending: false
 
 # View.
 #   1 = List
