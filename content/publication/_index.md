@@ -1,8 +1,8 @@
 ---
 title: Publications
 cms_exclude: true
-sort_by: "weight"  
-sort_ascending: false
+sort_by: 'Weight'
+sort_ascending: true
 
 # View.
 #   1 = List
