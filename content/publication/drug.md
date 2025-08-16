@@ -1,5 +1,4 @@
 ---
-weight = 4
 title: "Peace Under the Influence? The Role of Illicit Drug Economies in Peace Processes and Rebel Splintering"
 authors:
 - Myung Jung Kim
