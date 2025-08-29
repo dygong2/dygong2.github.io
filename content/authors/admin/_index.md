@@ -80,7 +80,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. Candidate in Political Science at the University of Illinois Urbana-Champaign, where I received a Master's in Applied Statistics in 2025. I am currently a graduate student affiliate at [Arms Control & Domestic and International Security](https://acdis.illinois.edu/currently-offered-courses/graduate-student-affiliates).
+I am a Ph.D. Candidate in Political Science at the University of Illinois Urbana-Champaign, where I received a Master's in Applied Statistics in 2025. I am also a graduate student affiliate at [Arms Control & Domestic and International Security](https://acdis.illinois.edu/currently-offered-courses/graduate-student-affiliates).
 
 My research interests include political violence, conflict management and resolution, the political economy of violence, and political methodology. My three-paper dissertation project broadly examines the interdependence between coups and civil wars. The first paper compares civil wars with and without coup attempts, demonstrating the impact of coups on both short-term conflict management and long-term resolution efforts. The second paper investigates (1) _whether_ and _how_ governments restore stability following coup attempts by introducing a novel measure of post-coup stability, and (2) the varieties of post-coup environments and their effects on civil war resolution and conflict severity. The third paper examines the reverse relationship: how the dynamics of civil wars shape different types of coup attempts.
 
