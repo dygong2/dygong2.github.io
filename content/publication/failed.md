@@ -17,7 +17,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: "Invited to resubmit, *Journal of Conflict Resolution*; ISA-Midwest 2024; MPSA 2025"
-publication_short: "JCR (R&R)"
+publication_short: 
 
 abstract: How do wartime coup attempts affect the conflict management and resolution of civil wars? Despite extensive research on rebel group instability, the impact of government instability remains underexplored. I argue that coup attempts—whether successful or failed—increase the chances of ceasefires but decrease those of peace agreements. Following coup attempts, both coup-installed leaders and surviving incumbents become preoccupied with preventing subsequent coups, as they increase the risk of future challenges. This shift leads them to divert resources from fighting rebels toward coup-proofing, which in turn increases the chances of ceasefires. Ceasefires are particularly likely with rebel groups who rely heavily on civilian support, as they seek to bolster their legitimacy. Nevertheless, coup attempts heighten uncertainty about the government’s ability to retain power and uphold commitments, reducing the chances of peace agreements. The hypotheses are supported by tests using datasets on ceasefires and peace agreements from 1989 to 2012. 
 
