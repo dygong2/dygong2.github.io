@@ -27,15 +27,13 @@ organizations:
     url: https://pol.illinois.edu/directory/profile/dygong2
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include international relations, armed conflicts, the interdependence between political violence, and leader survival.
+bio: My research interests center on the causes, dynamics, and consequences of political violence.
 
 # Interests to show in About widget
 interests:
-    - Civil Wars, Coups, Protests
-    - Conflict Management
-    - Conflict Resolution
+    - Political Violence (Civil Wars, Coups, Protests)
+    - Conflict Management & Resolution
     - Political Economy of Violence
-    - Leader Survival
     - Political Methodology
 
 # Education to show in About widget
@@ -82,11 +80,11 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. Candidate in Political Science at the University of Illinois Urbana-Champaign, where I received a Master's in Applied Statistics in 2025. I am currently a Schroeder Fellow at the [Cline Center at the University of Illinois](https://blogs.illinois.edu/view/8353/1521624143) and a graduate student affiliate at [Arms Control & Domestic and International Security](https://acdis.illinois.edu/currently-offered-courses/graduate-student-affiliates).
+I am a Ph.D. Candidate in Political Science at the University of Illinois Urbana-Champaign, where I received a Master's in Applied Statistics in 2025. I am currently a graduate student affiliate at [Arms Control & Domestic and International Security](https://acdis.illinois.edu/currently-offered-courses/graduate-student-affiliates).
 
-My research interests include political violence, conflict management and resolution, political economy of conflict, and leader survival. In my dissertation, I examine: 1) how wartime coup attempts—the most destabilizing form of government fragmentation—affect the management and resolution of civil wars, 2) how states effectively restore stability following coup attempts, and 3) how the restoration of post-coup stability influences conflict management and resolution efforts. 
+My research interests include political violence, conflict management and resolution, the political economy of violence, and political methodology. My three-paper dissertation project broadly examines the interdependence between coups and civil wars. The first paper compares civil wars with and without coup attempts, demonstrating the impact of coups on both short-term conflict management and long-term resolution efforts. The second paper investigates (1) _whether_ and _how_ governments restore stability following coup attempts by introducing a novel measure of post-coup stability, and (2) the varieties of post-coup environments and their effects on civil war resolution and conflict severity. The third paper examines the reverse relationship: how the dynamics of civil wars shape different types of coup attempts.
 
-My research has appeared in **_International Studies Quarterly_**, **_World Development_**, and **_International Review of Public Administration_**. My research has received supports from [Arms Control & Domestic and International Security](https://acdis.illinois.edu), [Center for East Asian & Pacific Studies](https://ceaps.illinois.edu), and APSA Conflict Processes Section.
+My research has appeared in **_International Studies Quarterly_**, **_World Development_**, and **_International Review of Public Administration_**. My research has received supports from [Arms Control & Domestic and International Security](https://acdis.illinois.edu), [Center for East Asian & Pacific Studies](https://ceaps.illinois.edu), [Cline Center at the University of Illinois](https://blogs.illinois.edu/view/8353/1521624143), and APSA Conflict Processes Section.
 
 
 {style="text-align: justify;"}
