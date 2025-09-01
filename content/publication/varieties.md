@@ -23,6 +23,7 @@ abstract: This study examines how varieties of post-coup government stability sh
 
 # Summary. An optional shortened abstract.
 summary: Different trajectories of post-coup government stability—legitimacy-building, repression, or continued instability—shape civil war dynamics, with legitimacy-building reducing conflict severity and fostering peace while other trajectories have little or adverse effects.
+
 tags:
 - Working papers
 featured: false
