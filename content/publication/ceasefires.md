@@ -1,7 +1,6 @@
 ---
 title: "Who Coups, Who Quits? Varieties of Wartime Coups and the Dynamics of Ceasefires"
-authors:
-- admin
+authors: ["admin"]
 
 date: "2024-03-01T00:00:00Z"
 doi: ""
@@ -13,29 +12,29 @@ publishDate: "2024-03-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "ISA-Midwest 2025 (scheduled)"
-publication_short: 
+publication_short: ""
 
-abstract: How do different types and outcomes of coup attempts shape the onset and durability of ceasefires during civil wars? This paper argues that the source of a coup—whether it originates from within the regime or from outside of it—and its outcome—success or failure—send distinct signals to rebels about regime cohesion and vulnerability, thereby altering their incentives to halt hostilities with the government. Coup attempts led by regime outsiders or accompanied by broad popular mobilization may offer a clean break from prior leadership. In such cases, new leaders—unburdened by past repression—have incentives to initiate a peace process, and rebels may view the government as more credible and likely to offer concessions. These conditions increase the likelihood of ceasefires, particularly those associated with broader peace processes, and may also enhance their durability. By contrast, coups initiated by regime insiders may reveal elite fragmentation without meaningful political change, reducing the prospects for ceasefire onset—especially when such coups fail. Using cross-national monthly data on civil wars, coup attempts, and ceasefire events, this study shows how variation in government fragmentation reshapes rebel incentives to enter and sustain ceasefires.
+abstract: "How do different types and outcomes of coup attempts shape the onset and durability of ceasefires during civil wars? This paper argues that the source of a coup—whether it originates from within the regime or from outside of it—and its outcome—success or failure—send distinct signals to rebels about regime cohesion and vulnerability, thereby altering their incentives to halt hostilities with the government. Coup attempts led by regime outsiders or accompanied by broad popular mobilization may offer a clean break from prior leadership. In such cases, new leaders—unburdened by past repression—have incentives to initiate a peace process, and rebels may view the government as more credible and likely to offer concessions. These conditions increase the likelihood of ceasefires, particularly those associated with broader peace processes, and may also enhance their durability. By contrast, coups initiated by regime insiders may reveal elite fragmentation without meaningful political change, reducing the prospects for ceasefire onset—especially when such coups fail. Using cross-national monthly data on civil wars, coup attempts, and ceasefire events, this study shows how variation in government fragmentation reshapes rebel incentives to enter and sustain ceasefires."
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: "This study shows how different types and outcomes of coup attempts reshape rebel incentives to enter and sustain ceasefires during civil wars."
 
-tags:
-- Working papers
+tags: ["Working papers"]
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf:
-url_code: 
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---
