@@ -61,6 +61,8 @@ sections:
         folders:
           - publication
         exclude_featured: true
+      count: 0
+      link_to_archive: false
     design:
       columns: '2'
       view: compact
