@@ -41,7 +41,7 @@ education:
   courses:
     - course: PhD in Political Science
       institution: University of Illinois Urbana-Champaign
-      year: 2026 (expected)
+      year: 2026
     - course: MS in Applied Statistics
       institution: University of Illinois Urbana-Champaign
       year: 2025
@@ -80,11 +80,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. Candidate in Political Science at the University of Illinois Urbana-Champaign, where I received a Master's in Applied Statistics in 2025. I am also a graduate student affiliate at [Arms Control & Domestic and International Security](https://acdis.illinois.edu/currently-offered-courses/graduate-student-affiliates). I defended my dissertation in March 2026 and will be joining the Department of Political Science at the [University of Western Ontario](https://politicalscience.uwo.ca) as a tenure-track Assistant Professor in July 2026.
+Welcome! I am a Raphael Morrison Dorman Memorial Postdoctoral Fellow at the [Weatherhead Center for International Affairs at Harvard University](https://www.wcfia.harvard.edu/people/do-young-gong) and an incoming Assistant Professor in the Department of Political Science at the [University of Western Ontario](https://politicalscience.uwo.ca). I received my Ph.D. in Political Science from the University of Illinois Urbana-Champaign in 2026, where I received a Master's in Applied Statistics in 2025. 
 
-My research interests include political violence, conflict management and resolution, the political economy of violence, and political methodology. My three-paper dissertation project broadly examines the interdependence between coups and civil wars. The first paper compares civil wars with and without coup attempts, demonstrating the impact of coups on both short-term conflict management and long-term resolution efforts. The second paper investigates (1) _whether_ and _how_ governments restore stability following coup attempts by introducing a novel measure of post-coup stability, and (2) the varieties of post-coup environments and their effects on civil war resolution and conflict severity. The third paper examines the reverse relationship: how the dynamics of civil wars shape different types of coup attempts.
-
-My research has appeared in **_International Studies Quarterly_**, **_World Development_**, and **_International Review of Public Administration_**. My research has received supports from [Arms Control & Domestic and International Security](https://acdis.illinois.edu), [Center for East Asian & Pacific Studies](https://ceaps.illinois.edu), [Cline Center for Advanced Social Research](https://blogs.illinois.edu/view/8353/1521624143), and APSA Conflict Processes Section.
-
+My research interests include political violence, conflict management and resolution, the political economy of violence, and political methodology. My research has appeared in **_International Studies Quarterly_**, **_World Development_**, and **_International Review of Public Administration_**. My research has received support from [Arms Control & Domestic and International Security](https://acdis.illinois.edu), [Center for East Asian & Pacific Studies](https://ceaps.illinois.edu), [Cline Center for Advanced Social Research](https://blogs.illinois.edu/view/8353/1521624143), and APSA Conflict Processes Section.
 
 {style="text-align: justify;"}
