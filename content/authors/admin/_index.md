@@ -17,8 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: |
-  Postdoctoral Fellow
+role: Raphael Morrison Dorman Memorial Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -59,7 +58,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:dygong2@illinois.edu"
+    link: "mailto:dgong4@uwo.ca"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/doyoung_gong
