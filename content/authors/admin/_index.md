@@ -18,13 +18,12 @@ superuser: true
 
 # Role/position/tagline
 role: |
-  Ph.D. Candidate in Political Science
-  M.S. in Applied Statistics
+  Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Illinois Urbana-Champaign
-    url: https://pol.illinois.edu/directory/profile/dygong2
+  - name: Weatherhead Center for International Affairs, Harvard University
+    url: https://www.wcfia.harvard.edu/people/do-young-gong
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests center on the causes, dynamics, and consequences of political violence.
