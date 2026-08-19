@@ -80,7 +80,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Welcome! I am a Raphael Morrison Dorman Memorial Postdoctoral Fellow at the [Weatherhead Center for International Affairs at Harvard University](https://www.wcfia.harvard.edu/people/do-young-gong) and an incoming Assistant Professor in the Department of Political Science at the [University of Western Ontario](https://politicalscience.uwo.ca). I received my Ph.D. in Political Science from the University of Illinois Urbana-Champaign in 2026, where I received a Master's in Applied Statistics in 2025. 
+I am a Raphael Morrison Dorman Memorial Postdoctoral Fellow at the [Weatherhead Center for International Affairs at Harvard University](https://www.wcfia.harvard.edu/people/do-young-gong) and an incoming Assistant Professor in the Department of Political Science at the [University of Western Ontario](https://politicalscience.uwo.ca). I received my Ph.D. in Political Science from the University of Illinois Urbana-Champaign in 2026, where I received a Master's in Applied Statistics in 2025. 
 
 My research interests include political violence, conflict management and resolution, the political economy of violence, and political methodology. My research has appeared in **_International Studies Quarterly_**, **_World Development_**, and **_International Review of Public Administration_**. My research has received support from [Arms Control & Domestic and International Security](https://acdis.illinois.edu), [Center for East Asian & Pacific Studies](https://ceaps.illinois.edu), [Cline Center for Advanced Social Research](https://blogs.illinois.edu/view/8353/1521624143), and APSA Conflict Processes Section.
 
