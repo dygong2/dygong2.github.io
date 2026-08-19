@@ -82,7 +82,7 @@ sections:
         - **Independent Instructor**:
           <small>
           - **East Asian Political System**
-            - Central Michigan University | Spring 2025, Spring 2026 (Scheduled)
+            - Central Michigan University | Spring 2025, Spring 2026
           - **Quantitative Research Design in Political Science**
             - University of Illinois Urbana-Champaign | Summer 2025
           - **Ordinary Least Squares in R**
