@@ -5,7 +5,7 @@ authors:
 - admin
 
 date: ""
-doi: ""
+doi: "https://doi.org/10.1177/00220027261488730"
 weight: 1
 
 # Schedule page publish date (NOT publication's date).
@@ -30,8 +30,8 @@ featured: false
 
 # links:
 # - name: ""
-#   url: "https://doi.org/10.1177/00220027261488730"
-url_pdf: "https://drive.google.com/file/d/10wnEo2TIHBoDSFkzdP4UdoI6b55TATtj/view?usp=share_link"
+#   url: ""
+url_pdf: ""
 url_code: 
 url_dataset: ''
 url_poster: ''
