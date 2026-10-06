@@ -6,7 +6,6 @@ authors:
 
 date: ""
 doi: "https://doi.org/10.1177/00220027261488730"
-weight: 1
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-09-01T00:00:00Z"
@@ -25,8 +24,8 @@ abstract: How do the economic foundations of rebel groups shape civil war dynami
 summary: **_Journal of Conflict Resolution_**. Rebel groups that rely on drug-based financing are structurally less likely to pursue peace and more prone to fragmentation during negotiations, underscoring the unique challenges illicit economies pose to conflict resolution.
 
 tags:
-- Working papers
-featured: false
+- Source Themes
+featured: true
 
 # links:
 # - name: ""
